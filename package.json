@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "path-to-regexp": "^2.1.0"
+  },
+  "name": "one-router",
+  "description": "front end router",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eleven",
+  "license": "MIT"
+}
