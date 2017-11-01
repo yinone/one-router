@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "ava": "^0.23.0",
-    "path-to-regexp": "^2.1.0"
+    "path-to-regexp": "^2.1.0",
+    "rollup": "^0.50.0",
+    "webpack": "^3.8.1"
   },
   "name": "one-router",
   "description": "front end router",
